@@ -16,7 +16,7 @@ conda activate interview
 
 # GitHub Commands
 
-1.git clone <Git reporo url>
+1.git clone https://github.com/
 
 2. git .add
 
